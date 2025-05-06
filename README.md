@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Leonhard
 - 🔭 I’m currently working on a Wiki
 - 👀 I’m interested in IT, Physics, Math and Chemistry.
-- 🌱 I’m currently learning Database Managment/Backend. Also learning C#/C++.
+- 🌱 I’m currently learning Database Managment and Frontend/Backend. Also learning C#/C++.
